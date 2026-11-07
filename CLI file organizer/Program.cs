@@ -122,7 +122,7 @@ namespace CLI_file_organizer
                             {
                                 string DocumentDestination = Path.Combine(DocumentDestinationFolder, Path.GetFileName(download_files));
                                 string extension = Path.GetExtension(download_files).ToLower();
-                                if (extension == ".docx" || extension == ".pdf" || extension == ".xlxs" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
+                                if (extension == ".docx" || extension == ".pdf" || extension == ".xlsx" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
                                 {
                                     if (File.Exists(DocumentDestination))
                                     {
@@ -157,7 +157,7 @@ namespace CLI_file_organizer
                                         Console.WriteLine(Path.GetFileName(download_files) + " has been moved to " + ImageDestinationFolder);
                                     }
                                 }
-                                else if (extension == ".docx" || extension == ".pdf" || extension == ".xlxs" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
+                                else if (extension == ".docx" || extension == ".pdf" || extension == ".xlsx" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
                                 {
                                     if (File.Exists(DocumentDestination))
                                     {
@@ -267,7 +267,7 @@ namespace CLI_file_organizer
                             {
                                 string DocumentDestination = Path.Combine(DocumentDestinationFolder, Path.GetFileName(desktop_files));
                                 string extension = Path.GetExtension(desktop_files).ToLower();
-                                if (extension == ".docx" || extension == ".pdf" || extension == ".xlxs" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
+                                if (extension == ".docx" || extension == ".pdf" || extension == ".xlsx" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
                                 {
                                     if (File.Exists(DocumentDestination))
                                     {
@@ -302,7 +302,7 @@ namespace CLI_file_organizer
                                         Console.WriteLine(Path.GetFileName(desktop_files) + " has been moved to " + ImageDestinationFolder);
                                     }
                                 }
-                                else if (extension == ".docx" || extension == ".pdf" || extension == ".xlxs" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
+                                else if (extension == ".docx" || extension == ".pdf" || extension == ".xlsx" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
                                 {
                                     if (File.Exists(DocumentDestination))
                                     {
@@ -362,7 +362,7 @@ namespace CLI_file_organizer
                                     Console.WriteLine(Path.GetFileName(desktop_files) + " has been moved to " + ImageDestinationFolder);
                                 }
                             }
-                            else if (extension == ".docx" || extension == ".pdf" || extension == ".xlxs" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
+                            else if (extension == ".docx" || extension == ".pdf" || extension == ".xlsx" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
                             {
                                 if (File.Exists(DocumentDestination))
                                 {
@@ -418,7 +418,7 @@ namespace CLI_file_organizer
                                     Console.WriteLine(Path.GetFileName(download_files) + " has been moved to " + ImageDestinationFolder);
                                 }
                             }
-                            else if (extension == ".docx" || extension == ".pdf" || extension == ".xlxs" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
+                            else if (extension == ".docx" || extension == ".pdf" || extension == ".xlsx" || extension == ".pptx" || extension == ".txt" || extension == ".html" || extension == ".md" || extension == ".csv" || extension == ".pages")
                             {
                                 if (File.Exists(DocumentDestination))
                                 {
