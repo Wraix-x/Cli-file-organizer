@@ -1,0 +1,15 @@
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\bin\Debug\net10.0\CLI file organizer.exe
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\bin\Debug\net10.0\CLI file organizer.deps.json
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\bin\Debug\net10.0\CLI file organizer.runtimeconfig.json
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\bin\Debug\net10.0\CLI file organizer.dll
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\bin\Debug\net10.0\CLI file organizer.pdb
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\CLI file organizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\CLI file organizer.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\CLI file organizer.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\CLI file organizer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\CLI file organizer.dll
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\refint\CLI file organizer.dll
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\CLI file organizer.pdb
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\CLI file organizer.genruntimeconfig.cache
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\ref\CLI file organizer.dll
+C:\Users\Korisnik\source\repos\CLI file organizer\CLI file organizer\obj\Debug\net10.0\CLI file.14EA6612.Up2Date
