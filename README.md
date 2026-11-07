@@ -80,7 +80,6 @@ Files with any other extension are left where they are.
 
 - The list of files is read once when the app starts, so files added to Downloads or Desktop while the app is running are not seen until you restart it.
 - Entering something other than a number at the main menu closes the app with an error.
-- The Excel extension is currently misspelled in the code (`.xlxs` instead of `.xlsx`), so Excel files are not moved by the Documents category.
 - Windows only, since it relies on Windows folder locations.
 
 ## Project structure
