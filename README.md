@@ -26,7 +26,7 @@ A Windows console app written in C# (.NET 10) that cleans up your **Downloads** 
 ### Option 2: Command line
 
 ```bash
-git clone <your-repository-url>
+git clone <url>
 cd "CLI file organizer/CLI file organizer"
 dotnet run
 ```
