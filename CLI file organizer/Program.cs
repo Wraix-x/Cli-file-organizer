@@ -48,12 +48,12 @@ namespace CLI_file_organizer
                 if(Picker == 1)
                 {
                     Console.WriteLine("Which folder do you want to organize (Downloads, Desktop, All)");
+                    Console.WriteLine("DISCLAIMER! if you sellect all you will organize every file in both dirs");
                     Console.Write("> ");
                     Folder = Console.ReadLine();
                     if(Folder.ToUpper() == "DOWNLOADS")
                     {
                         Console.WriteLine("Which file type do you want to organize (Images, Audio, Videos, Documents, All");
-                        Console.WriteLine("DISCLAIMER! if you sellect all you will organize every file in both dirs");
                         Console.Write("> ");
                         File_type = Console.ReadLine();
                         if(File_type.ToUpper() == "IMAGES")
