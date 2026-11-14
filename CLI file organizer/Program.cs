@@ -211,7 +211,7 @@ namespace CLI_file_organizer
                                 {
                                     if (File.Exists(ImageDestination))
                                     {
-                                        error(); ;
+                                        error();
                                     }
                                     else
                                     {
